@@ -182,7 +182,7 @@ Angle-background
 .border-icon {
     border: 1px solid;
     border-radius: 50%;
-    color: #50d1c0;
+    color: #21799b;
     font-size: 20px;
     height: 50px;
     line-height: 2.7;
@@ -194,7 +194,7 @@ Angle-background
 
 .active .single-feature .border-icon,
 .single-feature:hover .border-icon {
-    background-color: #50d1c0;
+    background-color: #21799b;
     color: #ffffff;
 }
 

@@ -99,5 +99,12 @@ canvas {
   position: absolute;
   width: 100%;
   height: 100%;
-	background: black
+	background: #2d9dcd
+}
+
+
+.btn-primary, .btn-primary:active {
+    background-color: #0c2831 !important;
+    border-color: #0c2831 !important;
+    color: #ffffff !important;
 }
