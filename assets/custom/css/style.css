@@ -108,3 +108,17 @@ canvas {
     border-color: #0c2831 !important;
     color: #ffffff !important;
 }
+
+
+
+.btn-primary-dashboard, .btn-primary-dashboard:active {
+    background-color: #185f75 !important;
+    color: #ffffff !important;
+    margin-left: 0px !important; 
+    padding: 8px !important; 
+}
+
+
+.btn-play-icon-dashboard {
+    padding-top: 0px !important; margin-right:12px;
+}
